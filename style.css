@@ -1,0 +1,15 @@
+#grid {
+    width: 400px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.boardGame{
+    width: 500px;
+    height: 500px;
+
+}
+.container{
+    text-align: center;
+    padding: 60px 35%;
+}
